@@ -2,3 +2,4 @@ hello aku belajar git nih
 test test conflict resolve
 uji conflict 2
 uji squash
+commit 2
