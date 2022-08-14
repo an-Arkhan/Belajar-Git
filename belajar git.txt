@@ -1,2 +1,3 @@
 hello aku belajar git nih
-uji conflict branch main
+test test conflict resolve
+uji conflict 2
