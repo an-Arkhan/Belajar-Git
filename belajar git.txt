@@ -1,1 +1,2 @@
 hello aku belajar git nih
+test test conflict resolve
